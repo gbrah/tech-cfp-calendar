@@ -25,7 +25,7 @@ jobs:
 
       # run build script
       - name: Build markmap mindmap
-        run: mkdir markmap && npm install -g markmap-cli && markmap -o public/index.html README.md
+        run: mkdir markmap && npm install -g markmap-cli && markmap -o markmap/index.html calendar.md
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
