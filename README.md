@@ -17,7 +17,7 @@ I use :
 
 ## Contribute 
 
-Simply open a new codespace here, modfify the markdown and make your merge request.
+Simply open a new codespace [here](https://github.com/codespaces/new?machine=basicLinux32gb&repo=625004108&ref=main&location=WestEurope), modfify the markdown and make your merge request.
 
 ## Contact the author
 
