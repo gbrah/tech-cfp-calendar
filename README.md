@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/21337752/230727956-446dacff-958a-449f-
 
 ### [→ The mindmap can be viewed here ←](https://gbrah.github.io/tech-cfp-calendar/)
 
-The raw markdown tech conferences data is available [here](https://raw.githubusercontent.com/gbrah/tech-cfp-calendar/main/calendar.mdp)
+The raw markdown tech conferences data are available [here](https://raw.githubusercontent.com/gbrah/tech-cfp-calendar/main/calendar.mdp)
 
 ## Technically
 
