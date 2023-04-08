@@ -23,9 +23,13 @@ jobs:
           # choose node.js version to use
           node-version: 18
 
+      # install markmap 
+      - name: install markmap
+        run: npm install -g markmap-cli
+
       # run build script
       - name: Build markmap mindmap
-        run: mkdir markmap && npm install -g markmap-cli && markmap -o markmap/index.html calendar.md
+        run: mkdir markmap && markmap -o markmap/index.html calendar.md
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
