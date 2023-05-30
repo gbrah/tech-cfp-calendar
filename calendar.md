@@ -209,16 +209,26 @@ markmap:
 ### 📍 Aberystwyth, UK 🇬🇧
 
 ## [Droidcon NYC](https://www.nyc.droidcon.com/)
-### [📣]
+### [📣](https://sessionize.com/droidcon-nyc-2023/)
 ### 📅 SEPT 14-15 2023
 ### 📍 New York, USA
 
-## [NSSpain](https://www.nsspain.com/)
+## [Droidcon Lisbon](https://www.lisbon.droidcon.com/)
+### [📣](https://sessionize.com/droidcon-lisbon-2023/)
+### 📅 SEPT 28-29 2023
+### 📍 Lisbon, Portugal
+
+## [Swift connection](https://conference-hall.io/speaker/event/gwRy4mnF1Y0RUCzgNaaV/submission)
+### [📣](https://swiftconnection.io/)
+### 📅 SEPT 21-22 2023
+### 📍 Paris, France
+
+## [NSSpain](https://2023.nsspain.com/)
 ### [📣]
 ### 📅 SEPT 15-16 2022
 ### 📍 Logroño, Spain 🇪🇸
 
-## [OpenSource Summit]('https://events.linuxfoundation.org/open-source-summit-north-america/')
+## [OpenSource Summit](https://events.linuxfoundation.org/open-source-summit-north-america/)
 ### [📣](https://linuxfoundation.smapply.io/prog/open_source_summit_europe_2023/)
 ### 📅 SEPT 19-21 2023
 ### 📍 Vancouver, CANADA 🇨🇦
@@ -276,12 +286,12 @@ markmap:
 ### 📍 Leeds, Royaume-Uni 🇬🇧
 
 ## [DevFest Nantes](https://devfest.gdgnantes.com/)
-### [📣]
+### [📣](https://conference-hall.io/speaker/event/z5FSBfmwJSUWb4UO9hD4/submission)
 ### 📅 OCT 19-20 2023
 ### 📍 Nantes, France 🇫🇷
 
 ## [Droidcon London](https://www.droidcon.com/events/droidcon-london-2023/)
-### [📣]
+### [📣](https://sessionize.com/droidcon-london-2023/)
 ### 📅 OCT 26-27 2023
 ### 📍 Londres, Royaume-Uni 🇬🇧
 
@@ -313,13 +323,13 @@ markmap:
 ### 📍 Online
 
 ## [Build Stuff](https://www.buildstuff.events/)
-### [📣]
+### [📣](https://sessionize.com/build-stuff-2023-lithuania4405/)
 ### 📅 NOV 15-17 2023
 ### 📍 Vilnius, Lituanie 🇱🇹
 
 ## [Droidcon Kenya](https://www.droidcon.co.ke/)
 ### [📣]
-### 📅 NOV 16-18 2022
+### 📅 NOV 8-10 2023
 ### 📍 Nairobi, Kenya 🇰🇪
 
 ## [Webconf LATAM](https://webconf.tech/)
