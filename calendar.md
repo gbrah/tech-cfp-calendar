@@ -238,11 +238,6 @@ markmap:
 ### 📅 SEPT 27-30 2023
 ### 📍 Buenos Aires, Argentine 🇦🇷
 
-## [Frenchkit](https://frenchkit.fr/)
-### [📣](https://www.papercall.io/frenchkit-2022)
-### 📅 SEPT 29-30 2022
-### 📍 Paris, FRANCE
-
 # OCT
 
 ## [Devoxx Anvers](https://devoxx.be/)
