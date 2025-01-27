@@ -297,6 +297,11 @@ markmap:
 
 # NOV
 
+## [DroidKnight](https://festa.io/events/4990)
+### [📣]
+### 📅 NOV 16 2024
+### 📍 Seoul, Korea 🇰🇷
+
 ## [performance.now()](https://perfnow.nl/)
 ### [📣]
 ### 📅 NOV 2-3 2023
